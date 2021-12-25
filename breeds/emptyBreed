@@ -1,0 +1,116 @@
+DOCTYPE html>
+<html lang = "en-us">
+<head>
+	<meta charset = "UTF-8">
+	<title> Dog Paradise </title>
+	<link rel ="stylesheet"  href = "C:\Users\Aparn\Downloads\dog website\breeds\css\labrador.css">
+</head>
+
+<body>
+	<header>
+		<h1> Corgi </h1>
+	</header>
+	
+	<main>
+		<aside class = "left">
+		</aside>
+	
+		<section class = "middle">
+		
+		<p class = "b2"> <img class = "b1" src = "C:\Users\Aparn\Downloads\dog website\labrador.jpg"  alt = "dog image"  align = "left">  <br><br>  </p>
+		
+		<h2 class = "b3"> Labrador Retriever Dog Breed Picture: </h2>
+		<div>
+			<img class = "image1" src = "C:\Users\Aparn\Downloads\dog website\breeds\pics\labrador1.jpg">
+		</div>
+
+		<h2 class = "b3"> Vital Stats: </h2>
+		<div>
+			<p class = "b2"><b class = "color1"> Dog Breed Group: </b>  </p>
+			<p class = "b2"><b class = "color1"> Height: </b>  </p>
+			<p class = "b2"><b class = "color1"> Weight: </b>  </p>
+			<p class = "b2"><b class = "color1"> Life Span: </b>  </p>
+		</div>
+		
+		<div>
+			
+			<h2 class = "b3"> More About This Breed </h2>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			
+			<h2 class = "b4"> Highlights </h2>
+			<ul>
+				<li class = "b5">  </li>
+				<li class = "b5">  </li>
+				<li class = "b5">  </li>
+				<li class = "b5">  </li>
+				<li class = "b5">  </li>
+			</ul>
+			
+			<h2 class = "b4"> History </h2>
+			<p class = "para1"> <img class = "image1" src = "C:\Users\Aparn\Downloads\dog website\breeds\pics\labrador2.jpg"  alt = "dog image"  align = "left" style="display: inline-block; margin: 0px 30px">  <br><br>  <br><br>  </p>
+			<p class = "para1" style="margin-left: 20px">  </p>
+			<p class = "para1" style="margin-left: 20px">  </p>
+			<p class = "para1" style="margin-left: 20px">  </p>
+			<p class = "para1" style="margin-left: 20px">  </p>
+			<p class = "para1" style="margin-left: 20px">  </p>
+			
+			<h2 class = "b4"> Size </h2>
+			<p class = "para1">  </p>
+			
+			<h2 class = "b4"> Personality </h2>
+			<p class = "para1" style="margin-top: 20px"> <img src = "C:\Users\Aparn\Downloads\dog website\lab.jpg"  alt = "dog image"  align = "left" style="display: inline-block; margin: 0px 30px; width: 480px; height: auto; border: 4px solid grey;">  <br><br> </p>
+			
+		</div>	
+		
+		<div>	
+			
+			<h2 class = "b4" style= "margin-top: 70px"> Health </h2>
+			<p class = "b2">  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			<p class = "b2"><b class = "color1">  </b>  </p>
+			
+			<h2 class = "b4"> Care </h2>
+			<p class = "para1" style="margin-top: 20px"> <img src = "C:\Users\Aparn\Downloads\dog website\labrador.jpg"  alt = "dog image"  align = "left" style="display: inline-block; margin: 0px 30px; width: 480px; height: auto; border: 4px solid grey;">  <br><br>  <br><br>  <br><br>  </p>
+			<p class = "para1">  <br><br>  </p>
+			
+			<h2 class = "b4"> Feeding </h2>
+			<img src = "C:\Users\Aparn\Downloads\dog website\breeds\pics\food.png" style="width: 500px; height: auto; border: 4px solid grey;">
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			
+			<h2 class = "b4"> Children And Other Pets </h2>
+			<img src = "C:\Users\Aparn\Downloads\dog website\breeds\pics\alaska4.jpg" style="width: 500px; height: auto; border: 4px solid grey;">
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			<p class = "b2">  </p>
+			
+		</div>
+	
+		</section>
+		
+		<aside class = "right">	
+		</aside>
+		
+	</main>
+	
+	
+	
+
+</body>
+</html>

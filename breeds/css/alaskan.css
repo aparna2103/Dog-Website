@@ -1,0 +1,120 @@
+body *{
+		box-sizing: border-box;
+}
+
+header{
+		margin-top: 40px;
+		margin-bottom: 30px;
+}
+
+h1{
+	text-align: center;
+	font-family:  Comic Sans MS, cursive;
+	font-size: 40px;
+}
+
+.b1{
+	display: inline-table;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	border: 4px solid #A6ACAF ;
+	margin: 10px;
+	margin: 0 50px;
+	vertical-align: middle;
+}
+
+
+.left{
+		display: inline-block;
+		width: 8%;
+		height: 415px;
+		float: left;
+		margin-top: 0;
+		border: 1px ;
+		margin-right: 10px;
+		
+		padding-top: 40px;
+		padding-bottom: 90px;
+}
+
+.right{
+		display: inline-block;
+		width: 8%;
+		height: 415px;
+		float: right;
+		margin-top: 0;
+		border: 1px ;
+		margin-left: 10px;
+		
+		padding-top: 40px;
+		padding-bottom: 90px;
+		margin-right: 0;
+}
+
+.middle{
+		display: inline-block;
+		width: 1300px;
+		float: center;
+}
+
+.b2{
+	font-family:  Comic Sans MS, cursive;
+	font-size: 20px;
+}
+
+.b3{
+	font-family:  Comic Sans MS, cursive;
+	margin-top: 40px;
+	font-size: 30px;
+	color: #EC7063 ;
+}
+
+.image1{
+		width: 600px;
+		height: auto;
+		border: 4px solid grey;
+}
+
+.color1{
+	color: #3498DB ;
+}
+
+.b4{
+	text-decoration: underline;
+	color: #17202A;
+	font-family:  Comic Sans MS, cursive;
+	margin-top: 30px;
+}
+
+.b5{
+	font-family:  Comic Sans MS, cursive;
+	font-size: 20px;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+  font-size: 30px;
+}
+
+.para1{
+		font-family:  Comic Sans MS, cursive;
+		font-size: 20px;
+}
+
+
+
+
+
+
+
+
